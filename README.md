@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Efe</h1>
+<h1 align="center">Hello there! 👋, I'm Efe</h1>
 <h3 align="center">A Software Developer specializing in backend side with Java+Spring!</h3>
 <img align="right" alt="helloKenobi" width=400 src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp">
 
