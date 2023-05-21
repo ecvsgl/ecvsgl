@@ -4,11 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecvsgl&label=Profile%20views&color=0e75b6&style=flat" alt="ecvsgl" /> </p>
 
+I am a software developer specializing in backend side, particularly in Java+Spring Boot. Currently, I am having my master's in IT while honing my development skills. I have excellent analytical problem solving skills and I cherish opportunities that require out-of-the-box thinking. While not coding, one can find me learning next-shiny-thing online or playing video games.
+
 - 🔭 I’m currently working on **a LibraryAPI works through SpringBoot**
 - 🌱 I’m currently learning **Spring Boot Security**
+- 👨‍💻 Next, I will learn **Golang, BNB Chain**
 - 💬 Ask me about **java, spring, apacheSpark**
 - 📫 How to reach me **efecav95@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/efecavusoglu/](https://www.linkedin.com/in/efecavusoglu/)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/efecavusoglu/">here</a>
 - ⚡ Fun fact **I am a huge Star Wars nerd.**
 
 <h3 align="left">Connect with me:</h3>
