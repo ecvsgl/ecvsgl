@@ -8,7 +8,7 @@ I am a software developer specializing in backend side, particularly in Java+Spr
 
 - 🔭 I’m currently working on **a LibraryAPI works through SpringBoot**
 - 🌱 I’m currently learning **Spring Boot Security**
-- 👨‍💻 Next, I will learn **Golang, BNB Chain**
+- 👨‍💻 Next, I will learn **c#, entityframework**
 - 💬 Ask me about **java, spring, apacheSpark**
 - 📫 How to reach me **efecav95@gmail.com**
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/efecavusoglu/">here</a>
